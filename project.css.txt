@@ -1,0 +1,36 @@
+img
+{
+  width:20px;
+}
+ul
+{
+  list-style:none;
+  margin-left:80px;
+  display:flex;
+  width:1200px;
+  padding-left:0;
+  background-color:#ff6600;
+}
+ol
+{
+  margin-left:80px;
+}
+a
+{
+  color:black;
+  font-size:13px;
+}
+div
+{
+  margin-left:80px;;
+}
+hr
+{
+  color:darkorange;
+  width:1200px;
+}
+footer
+{
+  font-size:12px;
+  text-align:center;
+}

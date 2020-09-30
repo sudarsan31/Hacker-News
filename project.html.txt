@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Hacker News</title>
+</head>
+<body>
+  <section>
+     <ul>
+       <li><img src="https://pbs.twimg.com/profile_images/469397708986269696/iUrYEOpJ_400x400.png"/></li>
+       <li>Hacker News</li>
+       <li>new |</li>
+       <li>past |</li>
+       <li>comments |</li>
+       <li>ask |</li>
+       <li>show |</li>
+       <li>jobs |</li>
+       <li>submit |</li>
+        <li>login</li>
+    </ul>
+     
+   </section>
+   <ol>
+    <li> <a href="https://snowbrains.com/everest-visible-kathmandu-nepal-first-time/" 
+            style="text-decoration: none">Mount Everest is Visible From Kathmandu</a></li>
+     <li><a href="https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html"style="text-decoration: none">Death of corporate Reasearch lab</a></li>
+     <li><a href="https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/"style="text-decoration: none">Three bugs in Go My SQL driver</a></li>
+     <li><a href="https://github.com/dotnet/runtime/issues/36590"style="text-decoration: none">Support single-file apps .Net5</a></li>
+     <li><a href="https://engineering.shopify.com/blogs/engineering/what-is-nix"style="text-decoration: none">what is nix?</a></li>
+     <li><a href="https://github.com/openautocomplete/openautocomplete"style="text-decoration: none">open auto complete:shell-agnostic,crass-platform autocomplete specification</a></li>
+     <li><a href="https://internetofthieves.org/posts/twitter-map-optout/"style="text-decoration: none">opt-outs highlights the tension between privacy and revenue at twitter</a></li>
+     <li><a href="https://e.elliott.computer/big-tree-map/"style="text-decoration: none">why the cessana is such a badass plane(2019)</a></li>
+     <li><a href="https://mboehme.github.io/paper/FSE20.EmpiricalLaw.pdf"style="text-decoration: none">Fuzzing:on the Exponential cost of vulnerability Discovery[pdf]</a></li>
+     <li><a href="https://www.popularmechanics.com/flight/a29417998/cessna-badass-plane/"style="text-decoration: none">Tour of my roof</a></li>
+     <li><a href="https://medium.com/tenable-techblog/turning-signal-app-into-a-coarse-tracking-device-643eb4298447"style="text-decoration: none">Abusing WebRTC to reveal coarse location data in signal</a></li>
+     <li><a href="https://angel.co/company/fuzzbuzz/jobs/807308-full-stack-engineer-typescript-go"style="text-decoration: none">Fuzzbuzz(YC W19)is hiring full stack engineer</a></li>
+     <li><a href="https://twitter.com/i/broadcasts/1OyKAYWPRrWKb"style="text-decoration: none">Demo of an openAI language model [video]</a></li>
+     <li><a href="https://leancrew.com/all-this/2020/05/sort-of-handy/"style="text-decoration: none">sort of handy</a></li>
+     <li><a href="https://www.reddit.com/r/commandandconquer/comments/gnevp8/remaster_update_and_open_source_mod_support/fr97x9x/"style="text-decoration: none">EA will be releasing the C and C</a></li>
+     <li><a href="https://www.reddit.com/r/commandandconquer/comments/gnevp8/remaster_update_and_open_source_mod_support/fr97x9x/"style="text-decoration: none">coinbase will be remote first company</a></li>
+     <li><a href="https://nullsweep.com/why-is-this-website-port-scanning-me/"style="text-decoration: none">Why is website port scanning me?</a></li>
+     <li><a href="http://unicode.org/notes/tn27/"style="text-decoration: none">Known anomalies in unicode character names(2017) </a></li>
+     <li><a href="https://news.ycombinator.com/item?id=23252448"style="text-decoration: none">Ask Hn:why isn't visual programming a bigger thing?</a></li>
+     <li><a href="https://github.com/ZekeSnider/NintendoSwitchRESTAPI"style="text-decoration: none">Reverse Engineered Nintendo switch app</a></li>
+     <li><a href="https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?te20hn"style="text-decoration: none">sell yourself,sell your work</a></li>
+     <li><a href="https://vishnu.tech/posts/surviving-depression/"style="text-decoration: none">Surviving deppression</a></li>
+     <li><a href="https://smashnotes.com/updates/how-to-use-utm-parameters-to-grow-your-audience"style="text-decoration: none">How to use UTM parameters</a></li>
+     <li><a href="https://github.com/Rolstenhouse/unofficial-apis"style="text-decoration: none">Unoffical API's</a></li>
+     <li><a href="https://medium.com/@bjt2n3904/in-protest-of-the-web-bulldozer-e0fce4567d26"style="text-decoration: none">In protest the web</a></li>
+     <li><a href="http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html"style="text-decoration: none">Ray tracing in notepad.exe</a></li>
+     <li><a href="http://mail-archives.apache.org/mod_mbox/drill-user/202005.mbox/%3c41E5B6E8-EE0E-4219-AA0D-9C1060F5EBD5@gmail.com%3e"style="text-decoration: none">Apache Drill's Future</a></li>
+     <li><a href="https://queue.acm.org/detail.cfm?id=3400901"style="text-decoration: none">Dark patterns:past,present,and Future</a></li>
+     <li><a href="https://www.bloomberg.com/news/articles/2020-05-20/china-has-a-new-1-4-trillion-plan-to-overtake-the-u-s-in-tech"style="text-decoration: none">China's new plan to seize the world's tech crown from the U.S </a></li>
+    
+  </ol>
+  </section>
+   <div>
+    <p>More</p>
+  </div>
+    <hr>
+  <footer>
+  <p>Guidelines | FAQ | Support | API | Security | Lists | Bookmarklet | Legal | Apply to YC | Contact
+</p>
+      <form action="/action_page.php">  <!-- enter text to submit the form-->
+  <label for="search">search</label>
+  <input type="text" id="search" name="search">
+</form>
+    <footer>
+  
+  
+
+</body>
+</html>
